@@ -1,0 +1,19 @@
+/* NavLink.module.css */
+.activeapple {
+  background-color: #dc3545;
+  color: white;
+}
+
+.activeorange {
+  background-color: #ffc107;
+  color: white;
+}
+
+.inactive {
+  background-color: #6c757d;
+  color: white;
+}
+
+.customBadge {
+  border-radius: 4px;
+}

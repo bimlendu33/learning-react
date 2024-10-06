@@ -1,0 +1,22 @@
+{
+  "id": 1,
+  "firstname": "John",
+  "lastname": "Doe",
+  "email": "john.doe@example.com",
+  "address": "123 Main St, Springfield, USA",
+  "phone": "+1-555-1234",
+  "dateOfBirth": "2000-01-01",
+  "gender": "Male",
+  "grade": "A",
+  "major": "Computer Science",
+  "gpa": 3.8,
+  "enrollmentYear": 2018,
+  "graduationYear": 2022,
+  "profilesrc": "/assets/images/profile_1.png",
+  "hobbies": ["Reading", "Coding", "Hiking"],
+  "emergencyContact": {
+    "name": "Jane Doe",
+    "relationship": "Mother",
+    "phone": "+1-555-5678"
+  }
+}
